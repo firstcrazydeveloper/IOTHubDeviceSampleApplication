@@ -1,0 +1,10 @@
+D:\Projects\local\IOTHubDeviceSampleApplication\ReadCriticalQueue\bin\Debug\ReadCriticalQueue.exe.config
+D:\Projects\local\IOTHubDeviceSampleApplication\ReadCriticalQueue\bin\Debug\ReadCriticalQueue.exe
+D:\Projects\local\IOTHubDeviceSampleApplication\ReadCriticalQueue\bin\Debug\ReadCriticalQueue.pdb
+D:\Projects\local\IOTHubDeviceSampleApplication\ReadCriticalQueue\bin\Debug\Microsoft.ServiceBus.dll
+D:\Projects\local\IOTHubDeviceSampleApplication\ReadCriticalQueue\bin\Debug\Microsoft.ServiceBus.xml
+D:\Projects\local\IOTHubDeviceSampleApplication\ReadCriticalQueue\obj\Debug\ReadCriticalQueue.csprojResolveAssemblyReference.cache
+D:\Projects\local\IOTHubDeviceSampleApplication\ReadCriticalQueue\obj\Debug\ReadCriticalQueue.csproj.CoreCompileInputs.cache
+D:\Projects\local\IOTHubDeviceSampleApplication\ReadCriticalQueue\obj\Debug\ReadCriticalQueue.csproj.CopyComplete
+D:\Projects\local\IOTHubDeviceSampleApplication\ReadCriticalQueue\obj\Debug\ReadCriticalQueue.exe
+D:\Projects\local\IOTHubDeviceSampleApplication\ReadCriticalQueue\obj\Debug\ReadCriticalQueue.pdb

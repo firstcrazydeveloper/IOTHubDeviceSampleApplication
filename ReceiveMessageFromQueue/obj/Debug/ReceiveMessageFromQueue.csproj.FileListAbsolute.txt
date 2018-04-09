@@ -1,0 +1,13 @@
+D:\Projects\local\IOTHubDeviceSampleApplication\ReceiveMessageFromQueue\bin\Debug\ReceiveMessageFromQueue.exe.config
+D:\Projects\local\IOTHubDeviceSampleApplication\ReceiveMessageFromQueue\bin\Debug\ReceiveMessageFromQueue.exe
+D:\Projects\local\IOTHubDeviceSampleApplication\ReceiveMessageFromQueue\bin\Debug\ReceiveMessageFromQueue.pdb
+D:\Projects\local\IOTHubDeviceSampleApplication\ReceiveMessageFromQueue\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\Projects\local\IOTHubDeviceSampleApplication\ReceiveMessageFromQueue\bin\Debug\Microsoft.Azure.ServiceBus.dll
+D:\Projects\local\IOTHubDeviceSampleApplication\ReceiveMessageFromQueue\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\Projects\local\IOTHubDeviceSampleApplication\ReceiveMessageFromQueue\bin\Debug\Microsoft.Azure.ServiceBus.pdb
+D:\Projects\local\IOTHubDeviceSampleApplication\ReceiveMessageFromQueue\bin\Debug\Microsoft.Azure.ServiceBus.xml
+D:\Projects\local\IOTHubDeviceSampleApplication\ReceiveMessageFromQueue\obj\Debug\ReceiveMessageFromQueue.csprojResolveAssemblyReference.cache
+D:\Projects\local\IOTHubDeviceSampleApplication\ReceiveMessageFromQueue\obj\Debug\ReceiveMessageFromQueue.csproj.CoreCompileInputs.cache
+D:\Projects\local\IOTHubDeviceSampleApplication\ReceiveMessageFromQueue\obj\Debug\ReceiveMessageFromQueue.csproj.CopyComplete
+D:\Projects\local\IOTHubDeviceSampleApplication\ReceiveMessageFromQueue\obj\Debug\ReceiveMessageFromQueue.exe
+D:\Projects\local\IOTHubDeviceSampleApplication\ReceiveMessageFromQueue\obj\Debug\ReceiveMessageFromQueue.pdb
